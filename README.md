@@ -1,0 +1,1 @@
+I have worked on analyzing consumer data from a grocery shop to identify trends and improve business decisions. This project involves data cleaning, exploratory data analysis (EDA), and creating visualizations to understand consumer behavior.
